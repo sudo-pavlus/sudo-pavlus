@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ibrahim and I am freshman in Bilkent Univercity. My department is Computer Science.
+My name is Ibrahim and I am freshman in Bilkent University. My department is Computer Science.
 
 <!--
 **sudo-pavlus/sudo-pavlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
