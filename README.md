@@ -11,24 +11,38 @@ I’m a sophomore Computer Science student at Bilkent University; passionate abo
 🛠️ Technical Skills
 
 Languages:
-  Java
-  Python
-  C++
-  HTML/CSS
+
+Java
+
+Python
+
+C++
+
+HTML/CSS
 
 Core Concepts:
-  Object-Oriented Programming (OOP)
-  Arrays & ArrayLists
-  Methods & Modular Programming
-  Loops & Control Structures
-  Basic Algorithm Design
+
+Object-Oriented Programming (OOP)
+
+Arrays & ArrayLists
+
+Methods & Modular Programming
+
+Loops & Control Structures
+
+Basic Algorithm Design
 
 Tools:
-  Git & GitHub
-  VS Code / IntelliJ
-  Visual Studio
-  Linux(Debian/Ubuntu)
-  WSL
+
+Git & GitHub
+
+VS Code / IntelliJ
+
+Visual Studio
+
+Linux(Debian/Ubuntu)
+
+WSL
   
 
 <!--
