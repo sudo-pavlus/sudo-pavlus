@@ -12,25 +12,25 @@ I’m a sophomore Computer Science student at Bilkent University; passionate abo
 
 Languages:
 
-Java
-
-Python
-
-C++
-
-HTML/CSS
-
-Core Concepts:
-
-Object-Oriented Programming (OOP)
-
-Arrays & ArrayLists
-
-Methods & Modular Programming
-
-Loops & Control Structures
-
-Basic Algorithm Design
+  Java
+  
+  Python
+  
+  C++
+  
+  HTML/CSS
+  
+  Core Concepts:
+  
+  Object-Oriented Programming (OOP)
+  
+  Arrays & ArrayLists
+  
+  Methods & Modular Programming
+  
+  Loops & Control Structures
+  
+  Basic Algorithm Design
 
 Tools:
 
