@@ -1,5 +1,35 @@
-## Hi there 👋
-My name is Ibrahim and I am freshman in Bilkent University. My department is Computer Science.
+👋 Hi, I'm Ibrahim
+
+🎓 Computer Science Student
+💻 Aspiring Software Developer
+🚀 Always building, always learning
+
+👨‍💻 About Me
+
+I’m a sophomore Computer Science student at Bilkent University; passionate about problem-solving, software development, and building projects that turn ideas into working solutions. I enjoy writing clean, efficient code and continuously improving my understanding of algorithms and object-oriented programming.
+
+🛠️ Technical Skills
+
+Languages:
+  Java
+  Python
+  C++
+  HTML/CSS
+
+Core Concepts:
+  Object-Oriented Programming (OOP)
+  Arrays & ArrayLists
+  Methods & Modular Programming
+  Loops & Control Structures
+  Basic Algorithm Design
+
+Tools:
+  Git & GitHub
+  VS Code / IntelliJ
+  Visual Studio
+  Linux(Debian/Ubuntu)
+  WSL
+  
 
 <!--
 **sudo-pavlus/sudo-pavlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
