@@ -1,61 +1,32 @@
-👋 Hi, I'm Ibrahim
+# 👋 Hi, I'm Ibrahim Karakuş
+**Computer Engineering Student @ Bilkent University | Software Developer**
 
-🎓 Computer Science Student
-💻 Aspiring Software Developer
-🚀 Always building, always learning
+🚀 **Always building, always learning.**
 
-👨‍💻 About Me
+I’m a sophomore Computer Engineering student passionate about backend development, system architecture, and building tools that solve real-world problems. I enjoy bridging technical engineering with practical applications, whether that's integrating AI models into automated pipelines or developing object-oriented applications. 
 
-I’m a sophomore Computer Science student at Bilkent University; passionate about problem-solving, software development, and building projects that turn ideas into working solutions. I enjoy writing clean, efficient code and continuously improving my understanding of algorithms and object-oriented programming.
+### 👨‍💻 What I'm currently focusing on:
+* **Software Development:** Building scalable applications using Java (MVC, JavaFX) and Python.
+* **Systems & Architecture:** Deepening my knowledge in C/C++, digital logic design, and system-level programming.
+* **Game/Graphics Programming:** Exploring 2D graphics and state-machine based animations using C++ and the SFML library.
+* **Automation & AI:** Managing Linux (Ubuntu) servers to deploy 24/7 automated pipelines and integrating LLM APIs (like Anthropic Claude).
 
-🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-Languages:
+**Languages:** `Java` | `Python` | `C/C++` | `SystemVerilog` | `HTML/CSS`
 
-  Java
-  
-  Python
-  
-  C++
-  
-  HTML/CSS
-  
-  Core Concepts:
-  
-  Object-Oriented Programming (OOP)
-  
-  Arrays & ArrayLists
-  
-  Methods & Modular Programming
-  
-  Loops & Control Structures
-  
-  Basic Algorithm Design
+**Frameworks & Libraries:** `JavaFX` | `NumPy` | `SFML` | `Maven` 
 
-Tools:
+**Tools & Infrastructure:** `Linux (Ubuntu/Debian)` | `Git & GitHub` | `Firebase Firestore` | `Anthropic API` | `Telegram Bot API`
 
-Git & GitHub
+**Core Competencies:** `Object-Oriented Design (OOP)` | `MVC Architecture` | `Data Structures & Algorithms` | `RESTful API Integration` | `Linux Server Administration` | `Digital Logic Design`
 
-VS Code / IntelliJ
+### 🚀 Featured Projects
+*(You can pin your repositories below to showcase these)*
 
-Visual Studio
+* 📈 **BIST Stock Analysis Bot:** A 24/7 automated Python pipeline deployed on a Linux server that utilizes `yfinance` and the Anthropic Claude API to generate technical indicators and LLM-powered trading signals via Telegram.
+* ✈️ **TravelMate:** A Java-based travel companion finder utilizing MVC architecture and Firebase Firestore to match users based on a custom weighted compatibility algorithm. 
+* 🎮 **C++ & SFML Projects:** Various explorations into object-oriented game mechanics, asset loading, and character animation state machines.
 
-Linux(Debian/Ubuntu)
-
-WSL
-  
-
-<!--
-**sudo-pavlus/sudo-pavlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/ibrahimkarakus1) | 📧 karakusibrahim2007@gmail.com
