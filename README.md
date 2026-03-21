@@ -22,7 +22,7 @@ I’m a sophomore Computer Engineering student passionate about backend developm
 **Core Competencies:** `Object-Oriented Design (OOP)` | `MVC Architecture` | `Data Structures & Algorithms` | `RESTful API Integration` | `Linux Server Administration` | `Digital Logic Design`
 
 ### 🚀 Featured Projects
-*(You can pin your repositories below to showcase these)*
+
 
 * 📈 **BIST Stock Analysis Bot:** A 24/7 automated Python pipeline deployed on a Linux server that utilizes `yfinance` and the Anthropic Claude API to generate technical indicators and LLM-powered trading signals via Telegram.
 * ✈️ **TravelMate:** A Java-based travel companion finder utilizing MVC architecture and Firebase Firestore to match users based on a custom weighted compatibility algorithm. 
