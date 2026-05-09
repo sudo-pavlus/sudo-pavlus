@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibrahim Karakuş
+# 👋 Hi,
 **Computer Engineering Student @ Bilkent University | Software Developer**
 
 🚀 **Always building, always learning.**
