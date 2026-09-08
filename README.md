@@ -6,9 +6,6 @@ Most of the things here started because I wanted to use them myself.
 
 ## Projects
 
-### [bist-trading-bot](https://github.com/sudo-pavlus/bist-trading-bot) · Python
-
-Tracks my own portfolio on Borsa İstanbul. It pulls prices from yfinance and computes RSI, MACD, Bollinger Bands and moving averages directly with numpy rather than pulling in TA-Lib. Runs on an Ubuntu box under cron and posts scheduled summaries to Telegram, with a short Claude Haiku call to turn the numbers into a sentence or two. Costs about $2 a month to keep running.
 
 ### [FocuserPetProject](https://github.com/sudo-pavlus/FocuserPetProject) · C++ / SFML
 
